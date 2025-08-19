@@ -1,0 +1,26 @@
+
+{
+  "name": "fca-kaoriVip",
+  "version": "1.0.0",
+  "description": "Advanced Facebook Chat API by Kaori Waguri - Multi-bot support system",
+  "main": "index.js",
+  "author": "Kaori Waguri",
+  "license": "MIT",
+  "keywords": ["facebook", "chat", "api", "bot", "kaori", "waguri", "multi-bot"],
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "ws": "^8.14.0",
+    "eventemitter3": "^5.0.1",
+    "chalk": "^4.1.2",
+    "moment-timezone": "^0.5.43",
+    "fs-extra": "^11.1.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaori-waguri/fca-kaoriVip.git"
+  }
+}
