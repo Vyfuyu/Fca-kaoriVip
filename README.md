@@ -47,7 +47,7 @@
 
 ### Bước 1: Clone repository
 ```bash
-git clone https://github.com/kaori-waguri/fca-kaoriVip.git
+git clone https://github.com/Vyfuyu/Fca-kaoriVip
 cd fca-kaoriVip
 ```
 
